@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Track -->
+  <path d="M100 400 L700 400" stroke="#FFD700" stroke-width="100" stroke-linecap="round"/>
+  
+  <!-- Athletes -->
+  <!-- Runner 1 -->
+  <g transform="translate(300, 350) scale(0.8)">
+    <circle cx="0" cy="-30" r="15" fill="#333"/>
+    <path d="M0 -15 L0 30" stroke="#333" stroke-width="4"/>
+    <path d="M0 0 L-20 20" stroke="#333" stroke-width="4"/>
+    <path d="M0 0 L20 20" stroke="#333" stroke-width="4"/>
+    <path d="M0 30 L-15 60" stroke="#333" stroke-width="4"/>
+    <path d="M0 30 L15 60" stroke="#333" stroke-width="4"/>
+  </g>
+  
+  <!-- Runner 2 -->
+  <g transform="translate(500, 350) scale(0.8)">
+    <circle cx="0" cy="-30" r="15" fill="#333"/>
+    <path d="M0 -15 L0 30" stroke="#333" stroke-width="4"/>
+    <path d="M0 0 L-20 20" stroke="#333" stroke-width="4"/>
+    <path d="M0 0 L20 20" stroke="#333" stroke-width="4"/>
+    <path d="M0 30 L-15 60" stroke="#333" stroke-width="4"/>
+    <path d="M0 30 L15 60" stroke="#333" stroke-width="4"/>
+  </g>
+
+  <!-- Stopwatch -->
+  <g transform="translate(600, 150)">
+    <circle cx="0" cy="0" r="40" fill="#FFD700"/>
+    <circle cx="0" cy="0" r="35" fill="white"/>
+    <path d="M0 -25 L0 0 L15 15" stroke="#333" stroke-width="3"/>
+    <circle cx="0" cy="0" r="3" fill="#333"/>
+  </g>
+
+  <!-- Medal -->
+  <g transform="translate(200, 450)">
+    <circle cx="0" cy="0" r="30" fill="#FFD700"/>
+    <path d="M-15 0 L15 0 M0 -15 L0 15" stroke="#FFA500" stroke-width="3"/>
+    <path d="M0 -40 L-10 -30 L10 -30 Z" fill="#FFD700"/>
+  </g>
+</svg>
