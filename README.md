@@ -8,6 +8,11 @@ Athlixir is a comprehensive, AI-powered **Athlete Management System** designed p
 
 🎨 **UI/UX Design:** [View Figma Design](https://www.figma.com/proto/8EQHW29tKMi56qMB3EWczs/Athlixir?page-id=82%3A1061&node-id=118-1666&p=f&viewport=-140%2C520%2C0.1&t=Z2TI1CpM4MGRTs9I-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=314%3A2618)
 
+🖼️ UI Preview: 
+
+🧩 Architecture Diagram: 
+
+📊 Tech Stack Visual:
 ---
 
 ## 📌 Table of Contents
@@ -216,7 +221,7 @@ For partnerships, collaborations, or queries, reach out to:\
 
 ## ⭐ Star this Project
 
-If you find this project useful or inspiring, please give it a ⭐ on [GitHub](https://github.com/your-username/athlixir) – it helps support the team and spreads the word!
+If you find this project useful or inspiring, please give it a ⭐ on [GitHub](https://github.com/Sasi3011/ATHLIXIR.git) – it helps support the team and spreads the word!
 
 ---
 
