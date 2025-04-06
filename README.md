@@ -8,13 +8,13 @@ Athlixir is a comprehensive, AI-powered **Athlete Management System** designed p
 
 🎨 **UI/UX Design:** [View Figma Design](https://www.figma.com/proto/8EQHW29tKMi56qMB3EWczs/Athlixir?page-id=82%3A1061&node-id=118-1666&p=f&viewport=-140%2C520%2C0.1&t=Z2TI1CpM4MGRTs9I-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=314%3A2618)
 
-🖼️ UI Preview: https://github.com/Sasi3011/ATHLIXIR/blob/main/Screenshot%202025-04-06%20215150.png
+🖼️ **UI Preview:** ![UI Preview](https://github.com/Sasi3011/ATHLIXIR/blob/main/Screenshot%202025-04-06%20215150.png?raw=true)
 
-🧩 Architecture Diagram: https://github.com/Sasi3011/ATHLIXIR/blob/main/Screenshot%202025-04-06%20215103.png
+🧩 **Architecture Diagram:**![Architecture Diagram](https://github.com/Sasi3011/ATHLIXIR/blob/main/Screenshot%202025-04-06%20215103.png?raw=true)
 
-📊 Tech Stack Visual:  https://github.com/Sasi3011/ATHLIXIR/blob/main/Screenshot%202025-04-06%20215114.png
+📊 **Tech Stack Visual:**  ![Tech Stack Visual](https://github.com/Sasi3011/ATHLIXIR/blob/main/Screenshot%202025-04-06%20215114.png?raw=true)
 
-Project Presentation: https://1drv.ms/p/c/486a6c01d08f60b6/Efg1KEh2s6VIhSpAuX2ZvPEBTZm10JJ1cwU7_C7PRqh6rg?e=1Q6DkK
+**Project Presentation:** [Download PPT](https://1drv.ms/p/c/486a6c01d08f60b6/Efg1KEh2s6VIhSpAuX2ZvPEBTZm10JJ1cwU7_C7PRqh6rg?e=1Q6DkK)
 
 ---
 
@@ -32,7 +32,7 @@ Project Presentation: https://1drv.ms/p/c/486a6c01d08f60b6/Efg1KEh2s6VIhSpAuX2Zv
 - [💼 Business Model (INR ₹)](#-business-model-inr-)
 - [💸 Estimated Implementation Cost](#-estimated-implementation-cost)
 - [🧹 Future Roadmap](#-future-roadmap)
-- [👨‍💻 Meet the Team](#-meet-the-team)
+- [👨‍💻 Meet the Team](#-meet-the-team-team-athlixir)
 - [📬 Contact](#-contact)
 - [⭐ Star this Project](#-star-this-project)
 
