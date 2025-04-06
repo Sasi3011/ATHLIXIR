@@ -42,15 +42,15 @@ const AIAssistant = () => {
       setInputMessage('');
 
       // Send message to backend
-      const response = await fetch('http://localhost:5001/chat', {
+      const response = await fetch('http://localhost:5001/api/chat', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
           message: inputMessage,
-          history: messages
-        })
+          userId: userId
+        })        
       });
 
       if (!response.ok) {

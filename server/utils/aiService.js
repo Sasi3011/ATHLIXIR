@@ -216,4 +216,12 @@ const generateRecommendations = (authenticity) => {
   });
 
   return recommendations;
-}; 
+};
+
+const response = await result.response;
+if (!response) {
+  throw new Error('No response received from Gemini API');
+}
+
+console.log('Request:', message);
+console.log('Response:', response);
