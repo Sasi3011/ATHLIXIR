@@ -14,7 +14,7 @@
     "@google/generative-ai": "^0.24.0",
     "@googlemaps/js-api-loader": "^1.16.8",
     "@heroicons/react": "^2.2.0",
-    "axios": "^1.6.2",
+    "axios": "^1.8.4",
     "bcryptjs": "^3.0.2",
     "chart.js": "^4.4.8",
     "cors": "^2.8.5",
