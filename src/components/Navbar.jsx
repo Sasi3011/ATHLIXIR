@@ -1,4 +1,6 @@
+import React from 'react';
 import { Link } from 'react-router-dom';
+import logo from "../assets/running-icon-illustration-symbol-vector-removebg-preview.png";
 
 const Navbar = () => {
   return (
@@ -6,7 +8,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         {/* Logo */}
         <Link to="/" className="flex items-center space-x-2">
-          <img src="src\assets\running-icon-illustration-symbol-vector-removebg-preview.png" alt="ATHLIXIR" className="h-8" />
+          <img src={logo} alt="ATHLIXIR" className="h-8" />
           <span className="text-xl font-semibold text-[#333333]">ATHLIXIR</span>
         </Link>
 
